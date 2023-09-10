@@ -1,0 +1,36 @@
+.custom-form-data .form-group{
+    display: flex;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.custom-form-data .form-control{
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    color: #000;
+}
+.custom-form-data .form-group label {
+    position: absolute;
+    left: 16%;
+    padding: 10px;
+}
+.custom-form-data .form-group-btn {
+    background: #7676c9!important;
+    border-radius: 12px;
+    padding: 10px 25px;
+}
+.wp-list-table th, .wp-list-table td{
+    text-align: center;
+}
+table.wp-list-table.widefat.fixed.striped {
+    background: #fff;
+}
+.error ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.error ul li{
+    color:red;
+}
